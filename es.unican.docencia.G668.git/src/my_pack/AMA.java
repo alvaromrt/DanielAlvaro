@@ -1,9 +1,9 @@
 package my_pack;
 
-public class DSB
+public class AMA 
 {
 	public void identify()
 	{
-		System.out.println("SB");
+		System.out.println("MA");
 	}
 }
