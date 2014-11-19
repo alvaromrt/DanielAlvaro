@@ -4,6 +4,6 @@ public class Company
 {
 	public void identify()
 	{
-		System.out.println("Empresa AMA");
+		System.out.println("Empresa AMA2");
 	}
 }
