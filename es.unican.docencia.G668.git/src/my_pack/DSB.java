@@ -4,6 +4,6 @@ public class DSB
 {
 	public void identify()
 	{
-		System.out.println("SB");
+		System.out.println("SB Daniel");
 	}
 }
