@@ -22,14 +22,14 @@ public class Runner {
 			
 			// Right workerAtRight = new Right();
 			// Left workerAtLeft   = new Left();
-			// Company company     = new Company();
+			Company company     = new Company();
 			DSB dsb = new DSB();
 			AMA ama=new AMA();
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("");
-			// company.identify(); 
+			company.identify(); 
 			dsb.identify();
 			ama.identify();
 			System.out.println("");

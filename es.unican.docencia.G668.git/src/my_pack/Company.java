@@ -1,9 +1,9 @@
 package my_pack;
 
-public class AMA 
+public class Company
 {
 	public void identify()
 	{
-		System.out.println("MA Alvaro");
+		System.out.println("XXX");
 	}
 }
